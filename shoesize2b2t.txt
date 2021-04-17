@@ -197,3 +197,5 @@ zetrax: shoe Size 11 US, height 6'0
 pepsiboy: shoe size ?, height 6ft
 
 hurtlockerbeck: shoe size 11.5, height 6'1
+
+I_tri: ShoeSize 9 US, Height: 5'5 
