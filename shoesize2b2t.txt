@@ -198,4 +198,6 @@ pepsiboy: shoe size ?, height 6ft
 
 hurtlockerbeck: shoe size 11.5, height 6'1
 
-I_tri: ShoeSize 9 US, Height: 5'5 
+I_tri: Shoe Size 9 US, Height 5'5 
+
+monkeyman: shoe size 10, height 5'9 
