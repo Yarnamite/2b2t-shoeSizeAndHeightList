@@ -191,3 +191,5 @@ John200410: shoe size 12, height 6'3
 odpay: shoe size 9 US, height 5'4
 
 kokainer: shoe size 42 eu, height 6'3
+
+zetrax: shoe Size 11 US, height 6'0
