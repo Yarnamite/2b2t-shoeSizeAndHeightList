@@ -177,3 +177,9 @@ brochacho6: shoe size 42EU, height 174.5cm
 roy4lrondi: shoe size 10.5, height 5'8"
 
 PRThomas: shoe size 10, height 184cm
+
+dragonworm: shoe size 20, height 5'9
+
+nifty: shoe size 6.5, height 5'4
+
+ufocrossing: shoe size 10.5, height 5'11"
