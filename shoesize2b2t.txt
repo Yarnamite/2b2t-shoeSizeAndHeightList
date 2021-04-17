@@ -183,3 +183,5 @@ dragonworm: shoe size 20, height 5'9
 nifty: shoe size 6.5, height 5'4
 
 ufocrossing: shoe size 10.5, height 5'11"
+
+y_a_t_a: shoe size 10, height 5'6
