@@ -195,3 +195,5 @@ kokainer: shoe size 42 eu, height 6'3
 zetrax: shoe Size 11 US, height 6'0
 
 pepsiboy: shoe size ?, height 6ft
+
+hurtlockerbeck: shoe size 11.5, height 6'1
