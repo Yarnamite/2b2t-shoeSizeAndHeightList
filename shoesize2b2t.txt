@@ -205,3 +205,5 @@ monkeyman: shoe size 10, height 5'9
 Dawnfall_: shoe size 14 US, height 6'5
 
 beardler: shoe size 10.5, height 5'9
+
+monkeylove2o: shoe size 8, height 5.7
