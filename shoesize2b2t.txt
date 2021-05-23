@@ -227,3 +227,5 @@ HoleEsp: shoe size 36 eu, height 2.29 m
 1kaila: shoe size 47 EU, height 1.89m
 
 Redstoner2b2t: shoe size 12 UK, height 180cm
+
+Burgerkingfoot: shoe size 46, height 6.1
