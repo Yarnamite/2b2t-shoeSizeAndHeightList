@@ -229,3 +229,5 @@ HoleEsp: shoe size 36 eu, height 2.29 m
 Redstoner2b2t: shoe size 12 UK, height 180cm
 
 Burgerkingfoot: shoe size 46, height 6.1
+
+Steampunkjax: shoe size 10.5, height 5'10
