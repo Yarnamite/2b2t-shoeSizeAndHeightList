@@ -1,7 +1,5 @@
 # 2b2t-shoeSizeAndHeightList
 A list containing the shoe size and height of several players on 2b2t.
 Some enteries may be false but I have no way of proving it so they are taken at face value.
-If you want to be added to the list dm me on discord with your ign, shoe size and height. My tag is ".Yarnamite#0531".
-Alternatively you could make a branch and add the enteries of yourself or others, then I could merge that with the main list or smth.
-
-yornomite#0293
+If you want to be added to the list dm me on discord with your ign, shoe size and height. My tag is "colmcille".
+Alternatively you could make a branch and add the enteries of yourself or others.
