@@ -233,3 +233,5 @@ Burgerkingfoot: shoe size 46, height 6.1
 Steampunkjax: shoe size 10.5, height 5'10
 
 catgirlmatty: shoe size 42 EU, height 5'9
+
+expunged: shoe size 12.5 US, height 6'0
