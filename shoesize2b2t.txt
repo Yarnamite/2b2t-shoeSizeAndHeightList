@@ -237,3 +237,5 @@ catgirlmatty: shoe size 42 EU, height 5'9
 expunged: shoe size 12.5 US, height 6'0
 
 Browngirl01: shoe size 7 womens CA, height 5'1
+
+Replik: shoe size 13 US, height 6'4
