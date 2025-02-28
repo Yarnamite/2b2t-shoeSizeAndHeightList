@@ -76,7 +76,7 @@ Rezlin: shoe size 12 US, height 6'4"
 
 0Nebulast122201/0neb: shoe size, 7 1/2 US, height 5''4
 
-Buttfuhk: shoe size 13 US, hieght 5'11
+Buttfuhk: shoe size 13 US, height 5'11
 
 Adolf_Hitller: shoe size 13 US, height 1.75m
 
@@ -158,7 +158,7 @@ fitmc: shoe size 12 us, height 6'1
 
 orsond: shoe size 13 usa, height 185cm
 
-Wallawiga(Franky): shoe size 12 us, hieght 6ft
+Wallawiga(Franky): shoe size 12 us, height 6ft
 
 househousehouse1(fake): shoe size 10, height 5'8
 
