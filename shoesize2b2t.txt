@@ -252,3 +252,5 @@ Max1mumChr1s: shoe size 15-3E (Extra Wide) US, height 6'10
 OldLadyNorth: shoe size 6 UK, height 5'2
 
 rainbowren11: shoe size 7.5 UK, height 5'11
+
+Vexxer: shoe size 12.5 US, height 5'11
