@@ -264,3 +264,5 @@ KayQuack: shoe size 9 womens US, height 5'5"
 _Synful: shoe size 13.5 US, height 6'6
 
 0x22: shoe size 20 US, height 7ft
+
+GeorgeDroydAI: shoe size 12 us, height 6'1
