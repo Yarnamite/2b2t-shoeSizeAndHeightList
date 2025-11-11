@@ -60,15 +60,15 @@ NAMBROSE: shoe size 10.5 US, height 6'5
 
 Haikewl: shoe size 46 EU, height 6'1
 
-Evan: shoe size 9.5 US, hight 5'9
+Evan: shoe size 9.5 US, height 5'9
 
-TheFifthAge(retard): shoe size 42 US, hight 420
+TheFifthAge(retard): shoe size 42 US, height 420
 
-Squirlboy006: shoe size 11.5 US , hight 180cm
+Squirlboy006: shoe size 11.5 US , height 180cm
 
-Qz: shoe size 10 UK , hight 176cm
+Qz: shoe size 10 UK , height 176cm
 
-CirocDrip: shoe size 12 US , hight 6'1
+CirocDrip: shoe size 12 US , height 6'1
 
 Nemac: shoe size 10.5 US, height 6'1"
 
@@ -268,3 +268,4 @@ _Synful: shoe size 13.5 US, height 6'6
 GeorgeDroydAI: shoe size 12 us, height 6'1
 
 HaltAccount: shoe size 6 us, height 5'3
+
