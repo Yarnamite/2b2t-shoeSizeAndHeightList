@@ -233,6 +233,8 @@ Burgerkingfoot: shoe size 46, height 6.1
 
 Steampunkjax: shoe size 10.5, height 5'10
 
+SilverEyes2b2t: shoe size 10 US, height 6'3
+
 catgirlmatty: shoe size 42 EU, height 5'9
 
 expunged: shoe size 12.5 US, height 6'0
@@ -270,3 +272,4 @@ GeorgeDroydAI: shoe size 12 US, height 6'1
 HaltAccount: shoe size 6 US, height 5'3
 
 guwad: shoe size 5 US, height 5'4
+
