@@ -265,7 +265,8 @@ _Synful: shoe size 13.5 US, height 6'6
 
 0x22: shoe size 20 US, height 7ft
 
-GeorgeDroydAI: shoe size 12 us, height 6'1
+GeorgeDroydAI: shoe size 12 US, height 6'1
 
-HaltAccount: shoe size 6 us, height 5'3
+HaltAccount: shoe size 6 US, height 5'3
 
+guwad: shoe size 5 US, height 5'4
