@@ -273,3 +273,4 @@ HaltAccount: shoe size 6 US, height 5'3
 
 guwad: shoe size 5 US, height 5'4
 
+KBgaming: shoe size 14 US, height 6'6
